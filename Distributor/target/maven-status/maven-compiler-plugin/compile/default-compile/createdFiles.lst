@@ -1,0 +1,6 @@
+com\example\taskproject\DistributorApplication.class
+com\example\taskproject\entity\Distributor.class
+com\example\taskproject\service\DistributorService.class
+com\example\taskproject\repository\DistributorRepository.class
+com\example\taskproject\controller\DistributorController.class
+com\example\taskproject\serviceimpl\DistributorServiceImpl.class
